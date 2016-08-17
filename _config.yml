@@ -6,9 +6,7 @@ color:
   saturation: 0.1801480173598975
   rhythmicContrast: 0.10396810830570757
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#DD0000'
+    - '#000000'
+    - '#FFCE00'
 name: B in Berlin
