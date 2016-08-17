@@ -1,4 +1,3 @@
-layout_spectrum: 0.9684079657308757
 typography_spectrum: 0.34641277720220387
 color:
   brandStrength: 0.9491112928371876
@@ -9,4 +8,6 @@ color:
     - '#DD0000'
     - '#000000'
     - '#FFCE00'
+layout_spectrum: 0.9684079657308757
 name: B in Berlin
+title: B
